@@ -30,7 +30,7 @@ body {
   background-color: white;
   width: 350px;
   border-radius: 0.625rem;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
   margin-bottom: 2rem;
 }
 
@@ -39,15 +39,15 @@ img {
   border-radius: 0.625rem;
 }
 
-h1 {
+.container h1 {
   margin-top: 10px;
   margin-bottom: 10px;
   padding: 10px;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   color: var(--Dark-blue);
 }
 
-p {
+.container p {
   padding: 10px;
   color: var(--Grayish-blue);
   margin-top: 10px;
